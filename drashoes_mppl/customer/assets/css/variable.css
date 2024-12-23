@@ -1,0 +1,57 @@
+/*-------------------------------------*\
+  #variables.css
+\*-------------------------------------*/
+
+/**
+ * copyright 2021 @codewithsadee 
+ */
+
+
+
+
+
+/**
+ * all global variables 
+ */
+
+ :root {
+
+    /**
+     * Colors 
+     */
+  
+    --live-indicator-shadow: hsla(0, 79%, 63%, 0.5);
+    --rich-black-fogra-30:   hsl(0, 0%, 21%); /*footer*/
+    --rich-black-fogra-29:   hsl(0, 0%, 0%); /*background*/
+    --live-indicator:        hsl(0, 83%, 23%);
+    --oxford-blue-50:        hsla(0, 39%, 14%, 0.8);
+    --oxford-blue:           hsl(0, 70%, 48%);
+    --light-azure:           hsl(0, 0%, 0%); /*slider*/
+    --off-white:             hsl(0, 0%, 88%);
+    --yellow:                hsl(0, 0%, 0%);
+    --white:                 hsl(0, 0%, 100%);
+    --azure:                 hsla(0, 100%, 50%, 0.603);
+  
+    /**
+     * Typography 
+     */
+  
+    --ff-inter: "Inter", sans-serif;
+  
+    --section-heading: 40px;
+    --fs-lg:           22px;
+    --fs-md:           17px;
+    --fs-sm:           14px;
+    --fs-x-sm:         12px;
+    
+    --fw-7: 700;
+    --fw-6: 600;
+    --fw-5: 500;
+  
+    /**
+     * Spacing 
+     */
+  
+    --px: 120px; /* padding-left & padding-right */
+  
+  }
